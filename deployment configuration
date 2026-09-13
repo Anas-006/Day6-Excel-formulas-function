@@ -1,0 +1,32 @@
+# Deployment Configuration
+
+## Project
+Task 6 - Excel Formulas & Functions Fundamentals
+
+## Tool
+Microsoft Excel
+
+## Dataset
+Sample Superstore Dataset
+
+## File
+Task-6-Excel-Formulas-Functions.xlsx
+
+## Environment
+Windows with Microsoft Excel
+
+## Deployment Type
+Local Excel workbook project.
+
+## Validation
+The workbook was tested using live transactional data to verify:
+- VLOOKUP results
+- IF conditions
+- SUMIFS calculations
+- COUNTIFS calculations
+- Text functions
+- Blank-cell handling
+- Number/text validation
+
+## Status
+Completed and ready for submission.
